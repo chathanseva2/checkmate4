@@ -5,6 +5,7 @@ int main(){
     cin>>t;
     int x=t;
     while(t--){
+        //nothing
         int r,c;
         cin>>r>>c;
         r=r*2+1;
